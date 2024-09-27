@@ -2,9 +2,10 @@
 👀 I’m interested in anything that's Data related </br></n>
 </br>
 Tools: </n>
-<ul><li>Databricks</li><li>Snowflake</li><li>Azure Data Factory</li>
-<li>Netezza</li><li>Azure Data Lake</li><li>Azure Key Vault</li>
-<li>Informatica</li><li>Tidal Enterprise Scheduler</li></ul></br>
+<ul><li>Azure Databricks</li><li>Azure Data Factory</li><li>Azure Synapse Analytics</li>
+<li>Azure Active Directory</li><li>Azure Functions</li><li>Azure Logic Apps</li>
+<li>Azure Data Lake</li><li>Azure Key Vault</li><li>Netezza</li>
+<li>Snowflake</li><li>Informatica</li><li>Tidal Enterprise Scheduler</li></ul></br>
 
 Languages:</n>
 <ul><li>SQL</li><li>Python</li><li>Spark</li>
