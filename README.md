@@ -2,7 +2,7 @@
 👀 I’m interested in anything that's Data related </br></n>
 </br>
 Tools: </n>
-<ul><li>Azure Databricks</li><li>Azure Data Factory</li><li>Azure Synapse Analytics</li>
+<ul><li>Azure Databricks</li><li>Microsoft Fabric</li><li>Azure Data Factory</li><li>Azure Synapse Analytics</li>
 <li>Azure Active Directory</li><li>Azure Functions</li><li>Azure Logic Apps</li>
 <li>Azure Data Lake</li><li>Azure Key Vault</li><li>Netezza</li>
 <li>Snowflake</li><li>RAG</li><li>GenAI</li></ul></br>
